@@ -1,1 +1,1 @@
-# extension
+# Adobe Automation
